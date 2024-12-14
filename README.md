@@ -1,2 +1,2 @@
-# task18-demukron-algorithm
+# task20-demukron-algorithm
 Алгоритм Демукрона
